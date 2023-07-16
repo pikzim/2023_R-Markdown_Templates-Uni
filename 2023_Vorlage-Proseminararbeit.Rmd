@@ -1,5 +1,6 @@
 ---
-title: "Umbrellas of Avisblatt"
+title: "TITLE"
+subtitle: "SUBTITLE"
 author:
 - Patrick Righi
 date: "dd.mm.yyyy"
