@@ -4,7 +4,7 @@ output:
     fig_caption: yes
     number_sections: yes
 bibliography: library.bib
-csl: methods-in-ecology-and-evolution.csl
+csl: chicago-note-bibliography-with-ibid.csl
 urlcolor: black
 linkcolor: black
 fontsize: 12pt
