@@ -1,0 +1,22 @@
+---
+title: "Summary:  AUTHOR - ‘TITLE- SUBTITLE'"
+subtitle: "Course: XXX, LECTURER,  FS 2023, Uni Basel"
+author: "Patrick Righi"
+date: "DATE"
+output: pdf_document
+document_class: scrartcl
+linestretch: 1.5
+fontsize: 12pt
+geometry:
+  - right=30mm
+  - top=30mm
+  - left=30mm
+  - heightrounded
+linkcolor: blue
+font: arial
+pagenumbering: right
+papersize: a4
+
+---
+
+Lorem ipsum dolor.... *[word count: XXX]*
